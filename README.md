@@ -9,7 +9,7 @@
 > type npm install qrcode-terminal
 > type node bot.js 
 > scan the qr code into your bot whatsapp web
-> done
+> done :)
 ```
 note: your gtps must have data onlineplayer.txt to activate the number of online players
 this script was free (!!!are prohibited from selling and buying this script!!!)
