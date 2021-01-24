@@ -15,7 +15,8 @@
 > done :)
 ```
 note: your gtps must have data onlineplayer.txt to activate the number of online players
-this script was free (!!!are prohibited from selling and buying this script!!!)
+
+(!!!are prohibited from selling and buying this script!!!)
 
 ### Download:
 node js [`download node js here`](https://nodejs.org/en/download/)
